@@ -2,7 +2,7 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Leybot/Sky-ley-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Leybot/Sky_ley-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Xkyley_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Xky_ley_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="Xky-ley Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
- <a href="https://github.com/Sky-ley">
+ <a href="https://github.com/Sky_ley">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/Xky-ley">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> xkyley MD whatsapp bot uses
+<p align="center"> xky_ley MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,11 +63,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Leybot/Sky-ley"><b>Xky-ley-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Leybot/Sky_ley"><b>Xky-ley-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Leybot/Sky-ley/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Leybot/Sky_ley/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/Leybot/Sky-ley/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Leybot/Sky_ley/issues">issue</a></p>
 
  
 
@@ -111,7 +111,7 @@
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Leybot/Sky-ley).  `FIXED! ✔️`***
+5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Leybot/Sky_ley).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+https://wa.me/50941488284`](https://github.com/Leybot/Xky-ley/issues/new) Or ask anything here [`+Q&A`](https://github.com/Leybot/Sky-ley/discussions/new?category=q-a)!
+- If any problem, then create an [`+https://wa.me/50941488284`](https://github.com/Leybot/Sky_ley/issues/new) Or ask anything here [`+Q&A`](https://github.com/Leybot/Sky_ley/discussions/new?category=q-a)!
 
 
 
